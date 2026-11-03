@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Meu nome é Danilo, tenho 16 anos e sou estudante do 2º ano no COTEMIG. Sou apaixonado por tecnologia e programação, desenvolvendo habilidades em HTML, CSS, C#, MySQL e Python. Estou sempre buscando aprender mais e evoluir como desenvolvedor, criando projetos que fortalecem meu conhecimento e ampliam minha experiência na área de desenvolvimento de software.</h4>
+<h4 align="left">Meu nome é Danilo, tenho 16 anos e sou estudante do 2º ano no COTEMIG. Sou apaixonado por tecnologia e programação, desenvolvendo habilidades em HTML, CSS, C#, SQL, JavaScript e Python. Estou sempre buscando aprender mais e evoluir como desenvolvedor, criando projetos que fortalecem meu conhecimento e ampliam minha experiência na área de desenvolvimento de software.</h4>
 
 ###
 
@@ -22,8 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javacript/javascript-original.svg" height="30" alt="javacript logo"  />
 </div>
 
 ###
