@@ -2,10 +2,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/danilogm21/danilogm21/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <div data-importer="socials" align="center">
@@ -33,11 +29,5 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/danilogm21/danilogm21/snake-output/snake.svg" alt="Snake animation" />
 
 ###
